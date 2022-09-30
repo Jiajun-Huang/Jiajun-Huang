@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiajun-Huang
-- 👀 I’m a newbird in proramming
-- 🌱 I’m currently learning C++ and Javascript
+- 👀 I’m a Second year Computer Engineering Student in UBC
+- 🌱 I’m currently learning React and Java
 
 
 <!---
