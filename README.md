@@ -16,6 +16,4 @@ You can click the Preview link to take a look at your changes.
 ### My GitHub Languages
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiajun-Huang&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
-### My GitHub WorkTime 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jiajun-Huang" /></div>
 
