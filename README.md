@@ -4,7 +4,7 @@
 :writing_hand: I like programming and tech-related stuff. I am trying to build a website on my own.
 
 
-
+<!---
 #### Most Proficient
 ![Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 ![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ### I also know about 
 
-<!---
+
 Jiajun-Huang/Jiajun-Huang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
