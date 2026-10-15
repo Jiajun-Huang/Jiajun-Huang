@@ -2,10 +2,6 @@
   <img src="./assets/haru-dorobou.png" alt="桜" width="880" />
 </p>
 
-<p align="center">
-  <strong>Interested in computer systems and robotics.</strong>
-</p>
-
 <br>
 
 <p align="center">
