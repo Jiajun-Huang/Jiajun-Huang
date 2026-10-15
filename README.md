@@ -1,21 +1,61 @@
-# Hi,I'm Jiajun Huang  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
-:computer: A Computer Engineering Student at University Of British Columbia.
+<p align="center">
+  <img src="./assets/haru-dorobou.png" alt="桜" width="880" />
+</p>
 
-:writing_hand: I like programming and tech-related stuff. I am trying to build a website on my own.
+<br>
 
+<p align="center">
+  愛を歌えば言葉足らず<br><br>
+  踏む韻さえ億劫<br><br>
+  花開いた今を<br><br>
+  言葉如きが語れるものか
+</p>
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiajun-huang-6b3c) 
+<h3 align="center">Tech Stack</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jiajun-Huang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jiajun-Huang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiajun-Huang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-555B73?style=for-the-badge&amp;logo=c&amp;logoColor=F8EFF4" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-555B73?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=F8EFF4" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-555B73?style=for-the-badge&amp;logo=openjdk&amp;logoColor=F8EFF4" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-555B73?style=for-the-badge&amp;logo=python&amp;logoColor=F8EFF4" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-555B73?style=for-the-badge&amp;logo=javascript&amp;logoColor=F8EFF4" alt="JavaScript" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Jiajun-Huang&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-555B73?style=for-the-badge&amp;logo=pytorch&amp;logoColor=F8EFF4" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-555B73?style=for-the-badge&amp;logo=numpy&amp;logoColor=F8EFF4" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Next.js-555B73?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F8EFF4" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Nginx-555B73?style=for-the-badge&amp;logo=nginx&amp;logoColor=F8EFF4" alt="Nginx" />
+  <img src="https://img.shields.io/badge/MySQL-555B73?style=for-the-badge&amp;logo=mysql&amp;logoColor=F8EFF4" alt="MySQL" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-555B73?style=for-the-badge&amp;logo=git&amp;logoColor=F8EFF4" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-555B73?style=for-the-badge&amp;logo=github&amp;logoColor=F8EFF4" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-555B73?style=for-the-badge&amp;logo=gitlab&amp;logoColor=F8EFF4" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitLab_CI-555B73?style=for-the-badge&amp;logo=gitlab&amp;logoColor=F8EFF4" alt="GitLab CI" />
+</p>
+
+<br>
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jiajun-Huang&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=00000000&amp;title_color=E0A8BF&amp;text_color=B9C0D4&amp;card_width=420&amp;disable_animations=true&amp;show_icons=true&amp;icon_color=E0A8BF&amp;ring_color=E0A8BF" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=Jiajun-Huang&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=00000000&amp;title_color=A45775&amp;text_color=505970&amp;card_width=420&amp;disable_animations=true&amp;show_icons=true&amp;icon_color=A45775&amp;ring_color=A45775" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jiajun-Huang&amp;hide_border=true&amp;background=00000000&amp;ring=E0A8BF&amp;fire=E0A8BF&amp;currStreakLabel=E0A8BF&amp;sideLabels=B9C0D4&amp;currStreakNum=B9C0D4&amp;sideNums=B9C0D4&amp;dates=B9C0D4&amp;stroke=555B73&amp;card_width=420" />
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiajun-Huang&amp;hide_border=true&amp;background=00000000&amp;ring=A45775&amp;fire=A45775&amp;currStreakLabel=A45775&amp;sideLabels=505970&amp;currStreakNum=505970&amp;sideNums=505970&amp;dates=505970&amp;stroke=D8DCE6&amp;card_width=420" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiajun-Huang&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=00000000&amp;title_color=E0A8BF&amp;text_color=B9C0D4&amp;card_width=420&amp;disable_animations=true&amp;layout=compact" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiajun-Huang&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=00000000&amp;title_color=A45775&amp;text_color=505970&amp;card_width=420&amp;disable_animations=true&amp;layout=compact" alt="Most used languages" />
+  </picture>
+</p>
