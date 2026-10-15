@@ -13,6 +13,12 @@
 
 <br>
 
+<p align="center">
+  Interested in computer systems and robotics.
+</p>
+
+<br>
+
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
